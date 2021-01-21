@@ -12,3 +12,5 @@ Alien runner game:  https://navaneet239.github.io/NPJ_alienRunnerGame/
 Space journey game: https://navaneet239.github.io/spaceJourney/
 
 pleaase play and enjoy your journey of space!!!!
+
+information: copy the link fron the above text and paste it in your browser.
