@@ -1,5 +1,4 @@
-# my 2 space infinity games
-🌌Infinity and beyond🌌
+# 🌌Infinity and beyond🌌
 
 Have you ever ran on a planet or kept flying in the empty space??? You would experience it in these two games.
 
