@@ -6,10 +6,12 @@ Remember, these games are only to be played in laptops or any pc due to its comp
 
 👽 Alien runner game:  
 
-[button url= "https://navaneet239.github.io/NPJ_alienRunnerGame/"]
+[click here to go furthure](https://navaneet239.github.io/NPJ_alienRunnerGame/)
+
+{% include button.html url= "https://navaneet239.github.io/NPJ_alienRunnerGame/" %}
 
 🚀 Space journey game: 
 
-[button url= "https://navaneet239.github.io/spaceJourney/"]
+[click here to go furthure](https://navaneet239.github.io/spaceJourney/)
 
 Play and enjoy your journey of the space!!!!
