@@ -4,8 +4,10 @@ Have you ever ran on a planet or kept flying in the empty space??? You would exp
 
 Remember, these games are only to be played in laptops or any pc due to its compatibility with it.
 
-👽 Alien runner game:  [click here to go furthure](https://navaneet239.github.io/NPJ_alienRunnerGame/)
+👽 Alien runner game:  
+[click here to go furthure](https://navaneet239.github.io/NPJ_alienRunnerGame/) {: .btn}
 
-🚀 Space journey game: [click here to go furthure](https://navaneet239.github.io/spaceJourney/)
+🚀 Space journey game: 
+[click here to go furthure](https://navaneet239.github.io/spaceJourney/) {: .btn}
 
 Play and enjoy your journey of the space!!!!
