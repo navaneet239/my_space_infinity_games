@@ -14,6 +14,6 @@ Remember, these games are only to be played in laptops or any pc due to its comp
 
 🚀 Rocket journey game: 
 
-[click here to go furthure](https://navaneet239.github.io/NPJ_the_rocket_journey/)
+[click here to go furthure](https://navaneet239.github.io/NPJ_Rocket_Journey/)
 
 Play and enjoy your journey of the space!!!!
