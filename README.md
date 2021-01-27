@@ -6,14 +6,14 @@ Remember, these games are only to be played in laptops or any pc due to its comp
 
 👽 Alien runner game:  
 
-[click here to go furthure](https://navaneet239.github.io/NPJ_alienRunnerGame/)
+[click here](https://navaneet239.github.io/NPJ_alienRunnerGame/)
 
 🚀 Space journey game: 
 
-[click here to go furthure](https://navaneet239.github.io/spaceJourney/)
+[click here](https://navaneet239.github.io/spaceJourney/)
 
 🚀 Rocket journey game: 
 
-[click here to go furthure](https://navaneet239.github.io/NPJ_Rocket_Journey/)
+[click here](https://navaneet239.github.io/NPJ_Rocket_Journey/)
 
 Play and enjoy your journey of the space!!!!
