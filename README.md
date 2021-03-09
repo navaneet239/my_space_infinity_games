@@ -4,7 +4,7 @@ Have you ever ran or kept floating in the air on a planet, stood on a rocket or 
 
 Remember, these games are only to be played in laptops or any pc due to its compatibility with it.
 
-👽 Alien runner game:  
+👽 Alien runner game 1:  
 
 [click here](https://navaneet239.github.io/NPJ_alienRunnerGame/)
 
