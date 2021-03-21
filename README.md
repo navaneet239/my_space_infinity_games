@@ -12,6 +12,9 @@ Remember, these games are only to be played in laptops or any pc due to its comp
 
 [click here](https://navaneet239.github.io/alienRunnerGame2/)
 
+👽 Alien runner game 3:  
+
+[click here](https://navaneet239.github.io/alienRunnerGame3/)
 
 🚀 Space journey game: 
 
