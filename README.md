@@ -5,16 +5,16 @@
 *Remember, these games are only to be played in laptops or any pc due to its compatibility with it.*
 
 > #### 👽 **Alien runner game:-**
->> - 👽 **Alien runner game 1:**  ***[click here to go to Alien Runner Game 1](https://navaneet239.github.io/NPJ_alienRunnerGame/)***
+> - 👽 **Alien runner game 1:**  ***[click here to go to Alien Runner Game 1](https://navaneet239.github.io/NPJ_alienRunnerGame/)***
 >
->> - 👽 **Alien runner game 2:**  ***[click here to go to Alien Runner Game 2](https://navaneet239.github.io/alienRunnerGame2/)***
+> - 👽 **Alien runner game 2:**  ***[click here to go to Alien Runner Game 2](https://navaneet239.github.io/alienRunnerGame2/)***
 >
->> - 👽 **Alien runner game 3:**  ***[click here to go to Alien Runner Game 3](https://navaneet239.github.io/alienRunnerGame3/)***
+> - 👽 **Alien runner game 3:**  ***[click here to go to Alien Runner Game 3](https://navaneet239.github.io/alienRunnerGame3/)***
 >
 > 🌌 **Space journey game:**  ***[click here to go to Space journey game](https://navaneet239.github.io/spaceJourney/)***
 >
-> 🚀 **Rocket journey game:** ***[click here to go to Rocket journey game](https://navaneet239.github.io/NPJ_Rocket_Journey/)***...
+> 🚀 **Rocket journey game:** ***[click here to go to Rocket journey game](https://navaneet239.github.io/NPJ_Rocket_Journey/)***
 
 ***
 
-...#### *Play and enjoy your journey of the space!!!!*
+#### *Play and enjoy your journey of the space!!!!*
