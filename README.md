@@ -5,17 +5,17 @@
 *Remember, these games are only to be played in laptops or any pc due to its compatibility with it.*
 
 > #### 👽 **Alien runner game:-**
-> - 👽 **Alien runner game 1:** 
->
+>> - 👽 **Alien runner game 1:** 
+>>
 >> ***[click here](https://navaneet239.github.io/NPJ_alienRunnerGame/)***
 >
-> - 👽 **Alien runner game 2:**  
->
+>> - 👽 **Alien runner game 2:**  
+>>
 >> ***[click here](https://navaneet239.github.io/alienRunnerGame2/)***
 >
-> - 👽 **Alien runner game 3:**  
->
-> ***[click here](https://navaneet239.github.io/alienRunnerGame3/)***
+>> - 👽 **Alien runner game 3:**  
+>>
+>> ***[click here](https://navaneet239.github.io/alienRunnerGame3/)***
 >
 > 🌌 **Space journey game:** 
 >
