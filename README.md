@@ -13,6 +13,8 @@
 >
 > 🌌 **Space journey game:**  ***[click here to go to Space journey game](https://navaneet239.github.io/spaceJourney/)***
 >
-> 🚀 **Rocket journey game:** ***[click here to go to Rocket journey game](https://navaneet239.github.io/NPJ_Rocket_Journey/)***
+> 🚀 **Rocket journey game:** ***[click here to go to Rocket journey game](https://navaneet239.github.io/NPJ_Rocket_Journey/)***...
 
-#### *Play and enjoy your journey of the space!!!!*
+***
+
+...#### *Play and enjoy your journey of the space!!!!*
